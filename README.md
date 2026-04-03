@@ -233,7 +233,6 @@
 <body>
 <div class="container">
     
-    <!-- HERO SECTION -->
     <div class="hero">
         <div>
             <h1 class="name">Nikol Panova</h1>
@@ -254,12 +253,9 @@
         </div>
     </div>
 
-    <!-- MAIN 2-COLUMN GRID -->
     <div class="grid-2">
         
-        <!-- LEFT COLUMN: Experience + Education -->
         <div>
-            <!-- WORK EXPERIENCE -->
             <div class="card">
                 <div class="section-title">
                     <span>💼</span> Work Experience
@@ -290,7 +286,6 @@
                 </div>
             </div>
 
-            <!-- EDUCATION -->
             <div class="card">
                 <div class="section-title">
                     <span>📖</span> Education
@@ -318,7 +313,6 @@
                 </div>
             </div>
 
-            <!-- CERTIFICATES -->
             <div class="card">
                 <div class="section-title">
                     <span>📜</span> Certificates
@@ -329,9 +323,7 @@
             </div>
         </div>
 
-        <!-- RIGHT COLUMN: Skills + Interests -->
         <div>
-            <!-- SKILLS (soft & technical) -->
             <div class="card">
                 <div class="section-title">
                     <span>⚡</span> Core Competencies
@@ -375,7 +367,6 @@
                 </div>
             </div>
 
-            <!-- INTERESTS + MOTIVATION (creative part) -->
             <div class="interests">
                 <div style="display: flex; gap: 0.6rem; align-items: center; margin-bottom: 1rem;">
                     <span style="font-size: 1.8rem;">✨</span>
@@ -390,7 +381,6 @@
                 </div>
             </div>
 
-            <!-- GITHUB / DEV STATUS -->
             <div class="card" style="margin-top: 1rem;">
                 <div class="section-title">
                     <span>🐙</span> GitHub & goals
@@ -410,7 +400,7 @@
 
     <footer>
         ⚡ Computer Engineering student @ TU-Sofia | Open for internships & tech conversations<br>
-        ✨ “Leave no work unfinished — and make learning exciting.”
+        ✨ "Leave no work unfinished — and make learning exciting."
     </footer>
 </div>
 </body>
